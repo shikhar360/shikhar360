@@ -7,12 +7,7 @@
   
 <div>
 
-<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="280px" align="right">
-<br>
-<br>
-<br>
-<br>
-<br>
+<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="295px" align="right">
 <br>
 <br>
 <br>
