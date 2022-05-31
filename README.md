@@ -6,11 +6,13 @@
   
   
 <div>
+
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="280px" align="right">
+<br>
+<br>
+<br>
+
 <div>
-<br>
-<br>
-<br>
  <ul>
 <li>👋 Hi, I’m @shikhar360 based in India </li>
 <li> 👀 Currently working towards WEB3.0 skills.</li>
