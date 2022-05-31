@@ -12,7 +12,7 @@
 - 👀 Currently working towards WEB3.0 skills.
 - 🌱 Self-Taught programmer busy in building something NEW
 - 💞️ I’ll happy to collaborate on projects , remote work
-- � All time GOAL -- CONTRIBITE TO OPEN SOURCE
+- 🥅 All time GOAL -- CONTRIBITE TO OPEN SOURCE
 -
 <br>
 <br>
