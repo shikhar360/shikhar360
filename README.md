@@ -7,7 +7,8 @@
   
 <div>
 
-<img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="295px" align="right">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="295px" align="right">
+ 
 <br>
 <br>
 <br>
@@ -32,23 +33,41 @@
 <br>
 <br> 
   
+
+ 
+  
+  
+  
 <p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=shikhar360&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="350">
 <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar360&count_private=true&theme=radical" alt="shikhar360" width="450" /></p>  -->
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar360&theme=algolia" alt="shikhar360" width="350" /></p>
 
 <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp; 
 <h4> Languages </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40">
+  
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40">
+<!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> -->
+<!--  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+
+
+
+  
 </span>
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </span>
+
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -57,14 +76,17 @@
 
 
 
-  ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+  ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">
 <a href="sssonishikhar360@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://instagram.com/shikkhar_"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/shikkhar_"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   
   
-  
+ 
+ 
+ 
+ 
 [![shikhar360's github activity graph](https://activity-graph.herokuapp.com/graph?username=shikhar360&theme=react-dark)](https://github.com/shikhar360/github-readme-activity-graph)
 
 
