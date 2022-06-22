@@ -43,25 +43,30 @@
 <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp; 
-<h4> Familiar With </h4>
+<h4> Languages </h4>
 <span> 
   
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="40">
+ <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="40" height="45" >
+<img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="40" height="45">
   
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="45">
+  
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="45">
 <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> -->
 <!--  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://seeklogo.com/images/T/tailwind-css-logo-89E99D7181-seeklogo.com.png" width="75" height="40"> 
+<!--    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> -->
+  <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" width="65" height="40" >
+   <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" width="35" height="45" >
+  <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="50" height="40" >
 
-
+<!--  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> -->
+<!-- <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> -->
+<img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" width="45" height="45">
+<img src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png" width="75" height="30">
+<img src="https://seeklogo.com/images/M/markdown-logo-102FDA095E-seeklogo.com.png" width="65" height="35">
+ 
 
   
 </span>
