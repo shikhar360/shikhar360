@@ -43,7 +43,7 @@
 <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">&nbsp; 
-<h4> Languages </h4>
+<h4> Stacks </h4>
 <span> 
   
   
