@@ -60,13 +60,19 @@
   <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" width="65" height="40" >
    <img src="https://seeklogo.com/images/S/solidity-logo-D29CC3EB00-seeklogo.com.png" width="35" height="45" >
   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="50" height="40" >
-
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="45" height="45">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="45" height="45">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="45" height="45">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="45" height="45"> 
 <!--  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> -->
+
 <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" width="45" height="45">
 <img src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png" width="75" height="30">
 <img src="https://seeklogo.com/images/M/markdown-logo-102FDA095E-seeklogo.com.png" width="65" height="35">
  
+  
+ 
+  
 
   
 </span>
