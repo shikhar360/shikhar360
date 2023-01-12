@@ -38,7 +38,7 @@
   
 <p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=shikhar360&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="350">
 <!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar360&count_private=true&theme=radical" alt="shikhar360" width="450" /></p>  -->
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhar360&theme=algolia" alt="shikhar360" width="350" /></p>
+<img align="right" src="https://streak-stats.demolab.com?user=shikhar360&theme=merko" alt="shikhar360" width="350" /></p>
 
 <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
