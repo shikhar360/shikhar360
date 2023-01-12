@@ -96,7 +96,9 @@
  
  
  
-[![shikhar360's github activity graph](https://activity-graph.herokuapp.com/graph?username=shikhar360&theme=react-dark)](https://github.com/shikhar360/github-readme-activity-graph)
+<!--  [![shikhar360's github activity graph](https://activity-graph.herokuapp.com/graph?username=shikhar360&theme=react-dark)](https://github.com/shikhar360/github-readme-activity-graph) -->
+
+[![Shikhar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shikhar360&theme=merko)](https://github.com/shikhar360/github-readme-activity-graph)
 
 
 <!---
